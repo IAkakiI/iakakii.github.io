@@ -1,6 +1,6 @@
 body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
 
 /* 吹き出し */
-.MuiPaper-root.MuiPaper-elevation1.MuiPaper-rounded {
+.MuiTypography-root MuiTypography-body2 MuiListItemText-secondary {
   display: none !important;
 }
