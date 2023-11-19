@@ -1,6 +1,6 @@
 body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
 
 /* 吹き出し */
-div[style="position: relative; width: 100%; height: 100%; overflow: hidden;"] {
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation6 {
   display: none !important;
 }
